@@ -5,6 +5,10 @@
 
 #### --- -
 
+`mkdir -p ~/.config && cd ~/.config && git clone git@github.com:deanglukler/dot-config.git .`
+
+#### --- -
+
 https://brew.sh/
 
 #### --- Sync Files -
