@@ -5,7 +5,7 @@
 
 #### --- -
 
-`zsh ~/clone_config.sh`
+`zsh ~/new_computer/clone_config.sh`
 
 #### --- -
 
