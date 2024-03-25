@@ -9,6 +9,6 @@ if [ -d "$config_dir" ]; then
     exit 1
 else
     # Create ~/.config directory and clone the repository into it
-    mkdir -p "$config_dir" && cd "$config_dir" && git clone git@github.com:deanglukler/dot-config.git .
+    mkdir -p "$config_dir" && cd "$config_dir" && git clone git@github.com:deanglukler/dot-config.git . && git submodule update --init --recursive
     echo "Repository cloned into $config_dir"
 fi
