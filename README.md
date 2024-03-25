@@ -5,7 +5,7 @@
 
 #### --- -
 
-`mkdir -p ~/.config && cd ~/.config && git clone git@github.com:deanglukler/dot-config.git .`
+`zsh ~/clone_config.sh`
 
 #### --- -
 
