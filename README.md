@@ -3,14 +3,20 @@
 `~/.shh/id_rsa`
 `~/.shh/id_rsa.pub`
 
-#### --- -
+## dl some programs...
 
-`zsh ~/new_computer/clone_config.sh`
+#### General
 
-#### --- -
+https://protonvpn.com/download
+
+#### MAC OS
 
 https://brew.sh/
 
-#### --- Sync Files -
+https://karabiner-elements.pqrs.org/
 
-`cd ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/__cloud_stuff/new_computer_sync`
+#### run some scripts...
+
+```
+/bin/bash -c "$(curl https://raw.githubusercontent.com/deanglukler/git-install-flow/HEAD/install.sh)"
+```
