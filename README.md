@@ -1,12 +1,3 @@
-#### --- -
-
-`~/.shh`
-
-go here:
-
-https://github.com/deanglukler/keys
-
-
 ## dl some programs...
 
 #### General
@@ -18,6 +9,14 @@ https://protonvpn.com/download
 https://brew.sh/
 
 https://karabiner-elements.pqrs.org/
+
+#### --- -
+
+`~/.shh`
+
+go here:
+
+https://github.com/deanglukler/keys
 
 #### run some scripts...
 
