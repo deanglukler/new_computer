@@ -18,5 +18,9 @@ https://karabiner-elements.pqrs.org/
 #### run some scripts...
 
 ```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/deanglukler/new_computer/HEAD/inst-keys.sh)"
+```
+
+```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/deanglukler/new_computer/HEAD/inst-conf-karabiner.sh)"
 ```
