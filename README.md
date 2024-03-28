@@ -3,6 +3,11 @@
 `~/.shh/id_rsa`
 `~/.shh/id_rsa.pub`
 
+go here:
+
+https://github.com/deanglukler/keys
+
+
 ## dl some programs...
 
 #### General
@@ -21,6 +26,3 @@ https://karabiner-elements.pqrs.org/
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/deanglukler/new_computer/HEAD/inst-keys.sh)"
 ```
 
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/deanglukler/new_computer/HEAD/inst-conf-karabiner.sh)"
-```
