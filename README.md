@@ -1,10 +1,19 @@
+## basics
+
+- Go through settings
+
+## karabiner
+
+https://karabiner-elements.pqrs.org/
+
+HOW DO I INSTALL
+
+
 ## dl some programs...
 
 https://protonvpn.com/download
 
 https://brew.sh/
-
-https://karabiner-elements.pqrs.org/
 
 https://shottr.cc/
 
