@@ -2,6 +2,12 @@
 
 - Go through settings
 
+## install brew and ansible
+
+https://brew.sh/
+
+`brew install ansible`
+
 ## karabiner
 
 https://karabiner-elements.pqrs.org/
@@ -12,8 +18,6 @@ HOW DO I INSTALL
 ## dl some programs...
 
 https://protonvpn.com/download
-
-https://brew.sh/
 
 https://shottr.cc/
 
