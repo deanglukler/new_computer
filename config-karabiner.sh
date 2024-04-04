@@ -1,5 +1,7 @@
 DIRECTOR="$HOME/.config/karabiner"
 
+mkdir -p "$HOME/.config"
+
 read -p "REPLACING $DIRECTOR - Are you suuure karabiner is backed up? -> Enter or Ctrl+C to cancel"
 
 if [ -d "$DIRECTOR" ]; then
