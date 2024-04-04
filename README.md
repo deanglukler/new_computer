@@ -1,6 +1,7 @@
 ## basics
 
 - Go through settings
+- Go through finder settings
 
 ## terminal
 
