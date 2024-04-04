@@ -11,7 +11,9 @@
 
 ## karabiner
 
-`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/deanglukler/new_computer/HEAD/config-karabiner.sh)"`
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/deanglukler/new_computer/HEAD/config-karabiner.sh)"
+```
 
 ## install brew
 
