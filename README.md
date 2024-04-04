@@ -3,11 +3,15 @@
 - Go through settings
 - Go through finder settings
 
-## terminal
+## terminal: ssh keys
 
 `mkdir ~/.ssh`
 
 `touch ~/.ssh/id_rsa && touch ~/.ssh/id_rsa.pub`
+
+## karabiner
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/deanglukler/new_computer/HEAD/inst-karabiner.sh)"
 
 ## install brew
 
