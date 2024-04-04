@@ -2,11 +2,15 @@
 
 - Go through settings
 
-## install brew and ansible
+## terminal
+
+`mkdir ~/.ssh`
+
+`touch ~/.ssh/id_rsa && touch ~/.ssh/id_rsa.pub`
+
+## install brew
 
 https://brew.sh/
-
-`brew install ansible`
 
 ## karabiner
 
