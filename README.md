@@ -9,8 +9,8 @@ https://github.com/deanglukler/keys
 
 ```
 mkdir -p ~/.ssh && \
-unzip -d ~/downloads ~/downloads/keys-main \
-mv ~/downloads/keys-main/* ~/.ssh \
+unzip -d ~/downloads ~/downloads/keys-main && \
+mv ~/downloads/keys-main/* ~/.ssh && \
 ansible-vault decrypt ~/.ssh id_rsa
 ```
 
