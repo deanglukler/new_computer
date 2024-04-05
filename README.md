@@ -62,15 +62,3 @@ https://code.visualstudio.com/download
 
 #### --- -
 
-`~/.shh`
-
-go here:
-
-https://github.com/deanglukler/keys
-
-#### run some scripts...
-
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/deanglukler/new_computer/HEAD/inst-keys.sh)"
-```
-
