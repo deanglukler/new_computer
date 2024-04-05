@@ -8,8 +8,10 @@
 https://github.com/deanglukler/keys
 
 ```
-mkdir -p "$HOME/.ssh" && \
-echo "hi"
+mkdir -p ~/.ssh && \
+unzip -d ~/downloads ~/downloads/keys-main \
+mv ~/downloads/keys-main/* ~/.ssh \
+ansible-vault decrypt ~/.ssh id_rsa
 ```
 
 ```
