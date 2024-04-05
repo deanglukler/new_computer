@@ -8,6 +8,11 @@
 https://github.com/deanglukler/keys
 
 ```
+mkdir -p "$HOME/.ssh" && \
+echo "hi"
+```
+
+```
 mkdir ~/.ssh
 ```
 
