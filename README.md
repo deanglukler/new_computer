@@ -3,6 +3,14 @@
 - Go through settings
 - Go through finder settings
 
+## install brew
+
+https://brew.sh/
+
+```
+brew install ansible
+```
+
 ## ssh keys
 
 https://github.com/deanglukler/keys
@@ -14,23 +22,13 @@ mv ~/downloads/keys-main/* ~/.ssh && \
 ansible-vault decrypt ~/.ssh/id_rsa
 ```
 
-```
-mkdir ~/.ssh
-```
-
-```
-touch ~/.ssh/id_rsa && chmod 600 ~/.ssh/id_rsa && touch ~/.ssh/id_rsa.pub
-```
-
 ## karabiner
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/deanglukler/new_computer/HEAD/config-karabiner.sh)"
 ```
 
-## install brew
 
-https://brew.sh/
 
 ## karabiner
 
