@@ -79,7 +79,7 @@ bettertouch: https://folivora.ai/downloads
 
 magnet: https://apps.apple.com/ca/app/magnet/id441258766
 
-**vs code**
+### vs code
 
 https://code.visualstudio.com/download
 
