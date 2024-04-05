@@ -31,6 +31,12 @@ https://karabiner-elements.pqrs.org/
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/deanglukler/new_computer/HEAD/config-karabiner.sh)"
 ```
 
+## alfred
+
+Powerpack key in notes
+
+https://www.alfredapp.com/
+
 
 ## dl some programs...
 
@@ -39,7 +45,11 @@ https://protonvpn.com/download
 
 https://shottr.cc/
 
+bettertouch: https://folivora.ai/downloads
 
+magnet: https://apps.apple.com/ca/app/magnet/id441258766
+
+https://code.visualstudio.com/download
 
 #### --- -
 
