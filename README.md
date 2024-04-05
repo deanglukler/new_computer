@@ -24,17 +24,12 @@ ansible-vault decrypt ~/.ssh/id_rsa
 
 ## karabiner
 
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/deanglukler/new_computer/HEAD/config-karabiner.sh)"
-```
-
-
-
-## karabiner
 
 https://karabiner-elements.pqrs.org/
 
-HOW DO I INSTALL
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/deanglukler/new_computer/HEAD/config-karabiner.sh)"
+```
 
 
 ## dl some programs...
