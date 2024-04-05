@@ -3,7 +3,9 @@
 - Go through settings
 - Go through finder settings
 
-## terminal: ssh keys
+## ssh keys
+
+https://github.com/deanglukler/keys
 
 ```
 mkdir ~/.ssh
