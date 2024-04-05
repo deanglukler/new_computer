@@ -45,6 +45,8 @@ https://protonvpn.com/download
 
 https://shottr.cc/
 
+https://justgetflux.com/
+
 bettertouch: https://folivora.ai/downloads
 
 magnet: https://apps.apple.com/ca/app/magnet/id441258766
