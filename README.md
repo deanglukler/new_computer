@@ -37,9 +37,16 @@ Powerpack key in notes
 
 https://www.alfredapp.com/
 
+## iterm
+
+https://iterm2.com/downloads.html
+
+oh-my-zsh
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
 
 ## dl some programs...
-
 
 https://protonvpn.com/download
 
