@@ -13,6 +13,8 @@ fi
 git clone git@github.com:deanglukler/zsh.git $DIRECTOR
 
 if [ ! -L "$HOME/.zshrc" ]; then
+    echo "Deleting $HOME/.zshrc"
+    rm -f "$HOME/.zshrc"
     echo "Linking $ZSHRC to $HOME/.zshrc"
     ln -s "$ZSHRC" "$HOME/.zshrc"
 fi
