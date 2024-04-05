@@ -24,7 +24,6 @@ ansible-vault decrypt ~/.ssh/id_rsa
 
 ## karabiner
 
-
 https://karabiner-elements.pqrs.org/
 
 ```
@@ -44,6 +43,15 @@ https://iterm2.com/downloads.html
 oh-my-zsh
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+config files
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/deanglukler/new_computer/HEAD/config-nvim.sh)"
+```
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/deanglukler/new_computer/HEAD/config-tmux.sh)"
 ```
 
 ## dl some programs...
