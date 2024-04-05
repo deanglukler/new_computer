@@ -2,7 +2,7 @@ DIRECTOR="$HOME/.config/tmux"
 
 mkdir -p "$HOME/.config"
 
-read -p "REPLACING $DIRECTOR - Are you suuure tmux is backed up?"$'\n'"-> Enter or Ctrl+C to cancel"
+read -p "REPLACING $DIRECTOR - Are you suuure tmux is backed up?"$'\n'"-> Enter to continue, or Ctrl+C to cancel"
 
 if [ -d "$DIRECTOR" ]; then
     echo "Deleting $DIRECTOR"
