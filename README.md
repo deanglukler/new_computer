@@ -79,7 +79,11 @@ bettertouch: https://folivora.ai/downloads
 
 magnet: https://apps.apple.com/ca/app/magnet/id441258766
 
+**vs code**
+
 https://code.visualstudio.com/download
+
+(Cmd+Shift+P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH command
 
 #### --- -
 
